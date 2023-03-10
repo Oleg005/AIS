@@ -1,4 +1,2 @@
-AIS
-# AIS
-# A-I-S
-# AIS
+Oleg Kalka
+Administration of information systems
