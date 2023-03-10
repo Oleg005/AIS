@@ -1,3 +1,3 @@
-Oleg Kalk
-a
+Oleg Kalka
+
 Administration of information systems
